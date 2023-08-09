@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://soroush9978.github.io/',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/jointDocu/',
@@ -19,8 +19,9 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   // Usually your GitHub org/user name.
-  projectName: 'main',
-  organizationName: 'Soroush9978',				// Usually your repo name.
+  projectName: 'jointDocu',
+  organizationName: 'Soroush9978',
+  deploymentBranch: "gh-pages",     // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
